@@ -1,0 +1,48 @@
+.burc_container {
+    display: block;
+    width: 100%;
+    clear: both;
+    height: auto;
+    background: #FBFBFB;
+    border: 1px solid #DFDFDF;
+    border-radius: 3px;
+    overflow: hidden;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.burc_container .form-controls {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.burc_container label {
+    font-size: 13px;
+}
+
+.burc_container .form-control {
+    display: block;
+    width: 100%;
+    clear: both;
+    float: none;
+    padding: 8px 12px;
+    background: #FBFBFB;
+    border: 1px solid #DFDFDF;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.burc_container .form-control:focus, .burc_container .form-control:active {
+    outline: 0;
+}
+
+.burc_copyright {
+    font-family: 'Tahoma';
+    display: block;
+    margin: 5px auto;
+    font-size: 12px;
+    color: #888;
+    margin-top: 5px;
+    text-align: center;
+}
